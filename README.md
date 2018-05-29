@@ -7,7 +7,7 @@ A simple unit conversion application
 
 ## To access this project on GitHub
 Here is [the project on Rita's repository](https://github.com/ritabc/unit-conversion)
-Here is [the project on Eric's repository](https://github.com/eshull/unit-conversion)
+Here is [the project on Eric's repository](https://github.com/eshull/unit-conversion-app)
 
 ## Known bugs
 Please contact the author with any bugs found.
